@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vonavona",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 156.998565502729036, -8.363854371563557 ], [ 156.998565502729036, -8.141485460008504 ], [ 157.195526480030537, -8.141485460008504 ], [ 157.195526480030537, -8.363854371563557 ], [ 156.998565502729036, -8.363854371563557 ] ] ] ] } }
+]
+}

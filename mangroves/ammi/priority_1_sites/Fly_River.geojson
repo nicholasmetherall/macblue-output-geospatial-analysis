@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Fly_River",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 143.223520829081906, -8.668193270819403 ], [ 143.223520829081906, -8.219082493145919 ], [ 143.817598524744056, -8.219082493145919 ], [ 143.817598524744056, -8.668193270819403 ], [ 143.223520829081906, -8.668193270819403 ] ] ] ] } }
+]
+}

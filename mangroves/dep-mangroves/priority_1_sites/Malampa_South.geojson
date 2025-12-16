@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Malampa_South",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 167.39329174790393, -16.679706491295899 ], [ 167.39329174790393, -16.366687721647359 ], [ 167.983509892219558, -16.366687721647359 ], [ 167.983509892219558, -16.679706491295899 ], [ 167.39329174790393, -16.679706491295899 ] ] ] ] } }
+]
+}
