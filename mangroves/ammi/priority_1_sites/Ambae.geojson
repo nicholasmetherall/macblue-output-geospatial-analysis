@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ambae",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 167.852580728275825, -16.386466988702942 ], [ 167.852580728275825, -16.047831155997461 ], [ 168.335919362108569, -16.047831155997461 ], [ 168.335919362108569, -16.386466988702942 ], [ 167.852580728275825, -16.386466988702942 ] ] ] ] } }
+]
+}
