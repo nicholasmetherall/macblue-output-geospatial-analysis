@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Kikori_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 144.072524233708975, -7.711848392583154 ], [ 144.072524233708975, -7.543982919930444 ], [ 144.359350934741684, -7.543982919930444 ], [ 144.359350934741684, -7.711848392583154 ], [ 144.072524233708975, -7.711848392583154 ] ] ] ] } }
+]
+}
