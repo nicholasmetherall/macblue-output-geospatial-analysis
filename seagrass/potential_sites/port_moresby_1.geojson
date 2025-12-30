@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "port_moresby_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 146.958732270991703, -9.49230027860162 ], [ 147.051307146592933, -9.371430239056476 ], [ 147.255939029211419, -9.499626551722908 ], [ 147.163364153610189, -9.620496591268052 ], [ 146.958732270991703, -9.49230027860162 ] ] ] ] } }
+]
+}

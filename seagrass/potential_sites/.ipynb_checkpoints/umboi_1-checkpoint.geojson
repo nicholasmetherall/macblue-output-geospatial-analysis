@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "umboi_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 147.699040581307202, -5.990678562204909 ], [ 147.699040581307202, -5.347941943671399 ], [ 148.159110742863788, -5.347941943671399 ], [ 148.159110742863788, -5.990678562204909 ], [ 147.699040581307202, -5.990678562204909 ] ] ] ] } }
+]
+}

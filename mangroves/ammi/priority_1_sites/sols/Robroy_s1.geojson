@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Robroy_s1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 157.520888108624206, -7.509768863631178 ], [ 157.520888108624206, -7.376999499649656 ], [ 157.838324789552985, -7.376999499649656 ], [ 157.838324789552985, -7.509768863631178 ], [ 157.520888108624206, -7.509768863631178 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lomawai_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 177.242792136103276, -18.096209229844035 ], [ 177.241958747943613, -17.993567813216671 ], [ 177.327722647331484, -17.993567813216671 ], [ 177.328556035491147, -18.096209229844035 ], [ 177.242792136103276, -18.096209229844035 ] ] ] ] } }
+]
+}

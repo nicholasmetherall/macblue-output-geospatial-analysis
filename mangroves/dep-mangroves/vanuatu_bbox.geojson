@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vanuatu_bbox",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 165.400101796049285, -20.330106765105938 ], [ 165.400101796049285, -9.805580744605647 ], [ 170.233317953645383, -9.805580744605647 ], [ 170.233317953645383, -20.330106765105938 ], [ 165.400101796049285, -20.330106765105938 ] ] ] ] } }
+]
+}

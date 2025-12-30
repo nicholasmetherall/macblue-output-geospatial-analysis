@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Malampa_s3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "Malampa_s3" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 167.379590175691334, -16.37168789484652 ], [ 167.379590175691334, -16.335477850240384 ], [ 167.408992634494496, -16.335477850240384 ], [ 167.408992634494496, -16.37168789484652 ], [ 167.379590175691334, -16.37168789484652 ] ] ] ] } }
+]
+}

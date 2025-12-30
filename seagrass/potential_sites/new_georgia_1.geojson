@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "New_Georgia_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 157.308216277412214, -8.40282458999458 ], [ 157.308216277412214, -8.060406891265474 ], [ 157.744739195815129, -8.060406891265474 ], [ 157.744739195815129, -8.40282458999458 ], [ 157.308216277412214, -8.40282458999458 ] ] ] ] } }
+]
+}
