@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Nukuira_s1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "Nukuira_1" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 178.68912542851993, -16.574369146967893 ], [ 178.68912542851993, -16.462306851529053 ], [ 178.866610209910391, -16.462306851529053 ], [ 178.866610209910391, -16.574369146967893 ], [ 178.68912542851993, -16.574369146967893 ] ] ] ] } }
+]
+}
