@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sepik_east",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "sepik_east" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 144.486959208922514, -3.936530876203981 ], [ 144.486959208922514, -3.833700520204987 ], [ 144.580758595242258, -3.833700520204987 ], [ 144.580758595242258, -3.936530876203981 ], [ 144.486959208922514, -3.936530876203981 ] ] ] ] } }
+]
+}

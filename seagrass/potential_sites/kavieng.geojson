@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Kavieng",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 150.550956414805881, -2.793966990347765 ], [ 150.550956414805881, -2.615797587326638 ], [ 150.890170983262863, -2.615797587326638 ], [ 150.890170983262863, -2.793966990347765 ], [ 150.550956414805881, -2.793966990347765 ] ] ] ] } }
+]
+}
